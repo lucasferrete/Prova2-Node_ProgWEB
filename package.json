@@ -1,0 +1,30 @@
+{
+  "name": "prova2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "views/login.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "hbs": "^4.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon login.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasferrete/Prova2-Node_ProgWEB.git"
+  },
+  "author": "Lucas Ferrete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasferrete/Prova2-Node_ProgWEB/issues"
+  },
+  "homepage": "https://github.com/lucasferrete/Prova2-Node_ProgWEB#readme"
+}
